@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Younddo, younseo Jang
-- 👀 I’m interested in programming but I am beginner HAHA
-- 🌱 I’m currently learning html, css, java ... 
-- 💞️ I’m looking to collaborate on many things
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 How to reach me : email younseojj@gmail.com
 
 <!---
