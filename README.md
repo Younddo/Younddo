@@ -9,7 +9,7 @@ growing everyday 🌱🌱🌼
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=black"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/java-FF81F9?style=flat-square"/>
 
-[!][Anurang's Github stats](http://github-readme-stats.vercel.app/api/top-langs/?username=Younddo)(https://github.com/Younddo/github-readme-stats)
+[!][Anurang's Github stats](http://github-readme-stats.vercel.app/api?username=Younddo)(https://github.com/Younddo/github-readme-stats)
 
 - 📫 How to reach me : email younseojj@gmail.com
 
