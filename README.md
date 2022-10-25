@@ -1,6 +1,6 @@
 
 -👋 Hi, I’m @Younddo, younseo Jang
--growing everyday 🌱🌱🌼
+growing everyday 🌱🌱🌼
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 <a href="링크"><img src="위에있는뱃지코드"/></a> -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016)](https://velog.io/@younseo1016)
