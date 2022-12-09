@@ -27,7 +27,7 @@ Spring과 Java를 공부하고 있습니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younddo&hide=javascript,html,SCSS,CSS,PHP&layout=compact)](https://github.com/Younddo/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younddo&show_icons=true&theme=outrun)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younddo&show_icons=true&theme=outrun) -->
   
 
 
