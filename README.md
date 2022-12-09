@@ -21,7 +21,7 @@ Spring과 Java를 공부하고 있습니다.
 <a href="링크"><img src="위에있는뱃지코드"/></a> -->
 
 
-## 📚Tech Stack📚
+## 📚 Tech Stack 📚
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF81F9?style=flat"/>
 
