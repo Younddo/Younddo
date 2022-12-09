@@ -2,7 +2,7 @@
 <!-- 
   ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Younseo&fontAlign=50&fontAlignY=40&color=gradient&customColorList=10,12,20,20,30&animation=twinkling) -->
   
-👋 Hi, I’m @Younddo, younseo Jang
+👋 Hi, I’m @Younddo, younseo Jang 👋
 
 
 growing everyday 🌱🌱🌼
