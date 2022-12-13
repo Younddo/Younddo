@@ -1,8 +1,6 @@
   
-👋 Hi, I’m @Younddo, younseo Jang 👋
+👋 Hi, I’m younseo Jang 👋
 
-growing everyday 🌱🌱🌼
-  
 Spring과 Java를 공부하고 있습니다.
   
 
