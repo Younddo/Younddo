@@ -9,6 +9,10 @@ SpringBoot & Java를 공부하고 있습니다! 🙋‍♀️
 💌 younseojj@gmail.com
   
 📃 https://velog.io/@younseo1016
+ 
+ <br>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYounddo&count_bg=%23FFA5A5&title_bg=%23FF2D2D&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <br><br>
 
