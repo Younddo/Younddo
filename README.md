@@ -8,7 +8,7 @@ sᴘʀɪɴɢʙᴏᴏᴛ & ᴊᴀᴠᴀ를 공부하고 있습니다! 🙋‍♀�
 좋은 개발자가 되기 위해 1 ᴅᴀʏ 1 ᴄᴏᴍᴍɪᴛ 실천중 🏃‍♀️🏃‍      
 
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016&color=dark)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016&color=dark)](https://velog.io/@younseo1016)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younddo&show_icons=true&theme=dark)
 
