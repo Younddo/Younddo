@@ -5,7 +5,7 @@
 Junior Back-end Developer since Sep, 2022    
 
 sᴘʀɪɴɢʙᴏᴏᴛ & ᴊᴀᴠᴀ를 공부하고 있습니다! 🙋‍♀️     
-좋은 개발자가 되기 위해 1 ᴅᴀʏ 1 ᴄᴏᴍᴍɪᴛ 실천중 🏃‍♀️🏃‍      
+좋은 개발자가 되기 위해 1 ᴅᴀʏ 1 ᴄᴏᴍᴍɪᴛ 1 ᴀʟɢᴏʀɪᴛʜᴍ 운동 실천중 🏃‍♀️🏃‍      
 
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016&color=dark)](https://velog.io/@younseo1016)
