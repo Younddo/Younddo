@@ -10,7 +10,6 @@ Springboot & Java를 공부하고 있습니다! 🙋‍♀️
  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=younseo1016&color=dark)](https://velog.io/@younseo1016)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younddo&show_icons=true&theme=dark)
 
 
 
